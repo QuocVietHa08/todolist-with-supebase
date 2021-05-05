@@ -1,3 +1,10 @@
+Some picture of the project 
+![](https://github.com/QuocVietHa08/todolist-with-supebase/blob/master/Untitled.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
